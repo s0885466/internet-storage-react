@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e293b5-812b-4501-aade-3f58ab10ad4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actionTypes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/phones/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/phones/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/phones.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/phones.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lab\internet-storage-react\src\node_modules" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -52,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568297402344</updated>
       <workItem from="1568297403507" duration="8647000" />
+      <workItem from="1568385504838" duration="5420000" />
     </task>
     <servers />
   </component>
